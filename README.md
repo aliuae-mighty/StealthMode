@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Activity Recorder
 
 
@@ -101,3 +102,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 ##  Support the Project
 
 If you find this tool helpful and it saves you time, consider supporting further development via the **SUPPORT PROJECT** button inside the app.
+=======
+# StealthMode
+>>>>>>> 6f34ef2e1e776cfb8a755f8a735f331baa68754b
